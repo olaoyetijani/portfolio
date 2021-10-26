@@ -447,5 +447,9 @@ header {
     width: 100rem;
     height: auto;
   }
+
+.progress  {
+    margin: 3rem;
+  }
   
   
